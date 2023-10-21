@@ -1,0 +1,1 @@
+line-height: 5rem; bo verticaly centeralo text v divu, če je parent height 5rem.
